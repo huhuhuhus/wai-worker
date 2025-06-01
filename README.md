@@ -86,9 +86,9 @@
    请将 `your_api_key_here` 替换为你的实际 API 密钥。
  
  5. **运行节点**
-   
+
    ```bash
-    wai run 
+   wai run 
    ```
 ---
 
